@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+	"overrides": [
+	    { "predicate": { "custom_model_data": 100 }, "model": "tne:item/coin_01" },
+	    { "predicate": { "custom_model_data": 101 }, "model": "tne:item/coin_05" },
+	    { "predicate": { "custom_model_data": 102 }, "model": "tne:item/coin_10" },
+	    { "predicate": { "custom_model_data": 103 }, "model": "tne:item/coin_25" },
+	    { "predicate": { "custom_model_data": 104 }, "model": "tne:item/coin_50" },
+	    { "predicate": { "custom_model_data": 105 }, "model": "tne:item/note_1" },
+	    { "predicate": { "custom_model_data": 106 }, "model": "tne:item/note_10" },
+	    { "predicate": { "custom_model_data": 107 }, "model": "tne:item/note_20" },
+	    { "predicate": { "custom_model_data": 108 }, "model": "tne:item/note_50" },
+	    { "predicate": { "custom_model_data": 109 }, "model": "tne:item/note_100" },
+	    { "predicate": { "custom_model_data": 110 }, "model": "tne:item/note_500" },
+	    { "predicate": { "custom_model_data": 111 }, "model": "tne:item/note_1000" }
+	]
+}
