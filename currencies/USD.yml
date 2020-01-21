@@ -92,7 +92,7 @@ Options:
 
   #The currency type to use for this currency.
   #Valid Types: virtual, item, experience
-  Type: "virtual"
+  Type: "item"
 
   #Would you like your item currency balances to also check the player's ender chest?
   EnderChest: true
